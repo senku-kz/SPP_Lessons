@@ -1,0 +1,5 @@
+Record: John, 19, 1234 
+Record: Marry, 21, 3499 
+Record: Pat, 18, 7771 
+Record: Mikey, 22, 8951 
+Record: Francis, 30, 2472 
